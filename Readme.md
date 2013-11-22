@@ -7,14 +7,14 @@ The aim is to recreate the rental system for the famous 'Boris Bikes' in London.
 ## What do we know
 
 - People can go to a docking station and rent a bike
-- They can also return bikesto a docking station
+- They can also return bikes to a docking station
 - A docking station has a number of bikes it can hold
 - Some bikes can be broken and will not be available for rental
 - Bikes can be returned to any docking station
 - When a broken bike is returned that bike cannot be rented
 - There are vans from a garage that pickup broken bikes from the docking station and deliver them to the garage for repairing
 - Every van has one or more docking stations assigned
-- The bikes are reparied in the garage
+- The bikes are repaired in the garage
 - A van can deliver repaired bikes to a docking station
 
 ## What do you have to do?
